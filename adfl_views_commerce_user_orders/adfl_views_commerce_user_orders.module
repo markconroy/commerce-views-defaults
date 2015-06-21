@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Views - Commerce User Orders feature.
+ */
+
+include_once 'adfl_views_commerce_user_orders.features.inc';

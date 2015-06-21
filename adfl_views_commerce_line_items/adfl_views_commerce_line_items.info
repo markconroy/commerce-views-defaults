@@ -1,0 +1,10 @@
+name = Views - Commerce Line Items
+description = A feature to export the "ADFL Line Items" view
+core = 7.x
+package = ADFL Views
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[views_view][] = adfl_line_items
+features_exclude[dependencies][ctools] = ctools
+project path = sites/all/modules/github/commerce-views-defaults

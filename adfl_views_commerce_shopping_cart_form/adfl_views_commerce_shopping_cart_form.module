@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Views - Commerce Shopping Cart Form feature.
+ */
+
+include_once 'adfl_views_commerce_shopping_cart_form.features.inc';
